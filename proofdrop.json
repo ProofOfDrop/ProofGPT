@@ -1,0 +1,135 @@
+{
+  "page": {
+    "title": "ProofDrop — Prove You’re Real. Earn Better Airdrops.",
+    "favicon": "https://example.com/favicon.ico",
+    "theme": {
+      "primaryColor": "#4BFFA5",
+      "backgroundColor": "#0F0F0F",
+      "textColor": "#FFFFFF",
+      "font": "Inter, sans-serif"
+    },
+    "sections": [
+      {
+        "type": "hero",
+        "title": "✅ Proof You're Not a Bot. Earn Better Airdrops.",
+        "subtitle": "ProofDrop scores your wallet’s airdrop reputation — so real users get rewarded, not farmers.",
+        "ctaButtons": [
+          {
+            "label": "🔗 Connect Wallet",
+            "action": "connect_wallet"
+          },
+          {
+            "label": "📬 Join Early Access",
+            "action": "https://tally.so/r/waitlist-form"
+          }
+        ],
+        "backgroundImage": "https://example.com/hero-background.svg"
+      },
+      {
+        "type": "section",
+        "title": "🚨 Airdrops Are Being Farmed to Death",
+        "content": [
+          "Bots and farmers are draining airdrop rewards from real users.",
+          "Projects waste millions on fake wallets.",
+          "ProofDrop fixes this — by verifying your wallet’s on-chain reputation."
+        ]
+      },
+      {
+        "type": "how_it_works",
+        "title": "🔍 How It Works",
+        "steps": [
+          {
+            "step": 1,
+            "title": "Connect Your Wallet",
+            "description": "We scan your on-chain history (airdrops, gas, tokens)."
+          },
+          {
+            "step": 2,
+            "title": "Get Your Score",
+            "description": "See your ProofDrop Reputation Score (0–100)."
+          },
+          {
+            "step": 3,
+            "title": "Mint Your Badge",
+            "description": "Prove you're a real user with a wallet-based NFT."
+          },
+          {
+            "step": 4,
+            "title": "Rise the Ranks",
+            "description": "Compete on the leaderboard, qualify for real airdrops."
+          }
+        ]
+      },
+      {
+        "type": "badge_preview",
+        "title": "🎖️ Badge Tiers",
+        "badges": [
+          {
+            "name": "Tier 1: OG Airdrop Hunter",
+            "emoji": "🔥",
+            "requirements": "Score > 80, 5+ historic airdrops"
+          },
+          {
+            "name": "Tier 2: Verified Wallet",
+            "emoji": "🧠",
+            "requirements": "Score 50–80, some gas usage"
+          },
+          {
+            "name": "Tier 3: Lurker",
+            "emoji": "👀",
+            "requirements": "Score < 50, low interaction"
+          }
+        ]
+      },
+      {
+        "type": "leaderboard_preview",
+        "title": "🏆 Leaderboard Snapshot",
+        "wallets": [
+          {
+            "rank": 1,
+            "wallet": "0xA3...f9c7",
+            "score": 92
+          },
+          {
+            "rank": 2,
+            "wallet": "0xF1...da9b",
+            "score": 89
+          },
+          {
+            "rank": 3,
+            "wallet": "0xB7...e322",
+            "score": 85
+          }
+        ],
+        "note": "More wallets will be scored weekly."
+      },
+      {
+        "type": "cta",
+        "title": "📬 Be the First to Join",
+        "subtitle": "Early users get access to badges, the leaderboard, and future drop perks.",
+        "ctaButton": {
+          "label": "Join Early Access",
+          "link": "https://tally.so/r/waitlist-form"
+        }
+      },
+      {
+        "type": "footer",
+        "links": [
+          {
+            "label": "Twitter",
+            "url": "https://twitter.com/proofdrop"
+          },
+          {
+            "label": "Discord",
+            "url": "https://discord.gg/proofdrop"
+          },
+          {
+            "label": "Gitbook",
+            "url": "https://docs.proofdrop.xyz"
+          }
+        ],
+        "copyright": "© 2025 ProofDrop"
+      }
+    ]
+  }
+}

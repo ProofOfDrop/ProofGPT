@@ -1,0 +1,29 @@
+body {
+  font-family: 'Inter', sans-serif;
+  margin: 0;
+  background-color: #0F0F0F;
+  color: #FFFFFF;
+}
+section {
+  padding: 2rem;
+  max-width: 900px;
+  margin: auto;
+}
+h1, h2, h3 {
+  color: #4BFFA5;
+}
+button {
+  background: #4BFFA5;
+  border: none;
+  padding: 10px 20px;
+  margin: 5px;
+  cursor: pointer;
+  font-weight: bold;
+}
+.badge {
+  display: inline-block;
+  border: 1px solid #4BFFA5;
+  padding: 10px;
+  margin: 5px;
+  border-radius: 8px;
+}

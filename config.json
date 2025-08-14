@@ -1,0 +1,22 @@
+{
+  "covalent_api_key": "YOUR_COVALENT_API_KEY",
+  "moralis_api_key": "YOUR_MORALIS_KEY",
+  "thegraph_endpoints": {
+    "governance": "",
+    "airdrops": ""
+  },
+  "chain_id": 1,
+  "dex_router_addresses": [
+    "0x7a250d5630b4cf539739df2c5dacf5d8eccf2b",
+    "0xe592427a0aece92de3edee1f18e0157c05861564",
+    "0xd9e1ce17f2641f24ae83637ab66a2cca9c378b9f"
+  ],
+  "weights": {
+    "governance": 20,
+    "defi": 20,
+    "contracts": 15,
+    "airdrops": 15,
+    "dex": 15,
+    "balance": 15
+  }
+}
